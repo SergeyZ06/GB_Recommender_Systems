@@ -1,0 +1,11 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+src/package_4th_homework/__init__.py
+src/package_4th_homework/recommenders.py
+src/package_4th_homework/utils.py
+src/package_4th_homework.egg-info/PKG-INFO
+src/package_4th_homework.egg-info/SOURCES.txt
+src/package_4th_homework.egg-info/dependency_links.txt
+src/package_4th_homework.egg-info/top_level.txt

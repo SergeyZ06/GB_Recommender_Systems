@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: package-4th-homework
+Version: 1
+Summary: My 4th_homework
+Home-page: https://github.com/SergeyZ06/Recommender_Systems
+Author: SergeyZ06
+Author-email: SergeyZ06@yandex.ru
+License: UNKNOWN
+Project-URL: Bug Tracker, https://github.com/SergeyZ06/Recommender_Systems
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+This is my 4th_homework.
+
+
+
